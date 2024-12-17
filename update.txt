@@ -1,2 +1,6 @@
-https://buy.4kviews.com/Release.zip,2025.01.01
-https://buy.4kviews.com/6Release.zip,2026.01.01
+{
+  "QuantumURL": "https://buy.4kviews.com/Release.zip",
+  "QuantumVersion": "2025.01.01",
+  "4kViewsURL": "https://buy.4kviews.com/6Release.zip",
+  "4kViewsVersion": "2026.01.01"
+}
